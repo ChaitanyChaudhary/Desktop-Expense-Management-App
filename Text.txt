@@ -1,5 +1,0 @@
-pyinstaller --noconfirm --onefile --windowed --icon=app_icon.ico '.\Expense Management App.py'
-
---noconfirm: Overwrites any previous build files.
---onefile: Packs everything into a single executable file.
---windowed: Suppresses the terminal window when the application is launched.
