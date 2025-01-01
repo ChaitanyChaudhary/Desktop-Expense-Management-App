@@ -41,7 +41,7 @@ Desktop Expense Management App is a simple and intuitive tool to help users trac
    ```
 2. Install the required dependencies:
    ```bash
-   pip install matplotlib
+   pip install requirements.txt
    ```
 3. Run the app:
    ```bash
@@ -55,4 +55,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Disclaimer
 
 The application is provided "as is," without warranty of any kind. Use it at your own risk.
-```
